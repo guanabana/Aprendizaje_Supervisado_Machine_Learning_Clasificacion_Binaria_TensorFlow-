@@ -1,0 +1,2 @@
+# Aprendizaje_Supervisado_Machine_Learning_Clasificacion_Binaria_TensorFlow-
+El objetivo es familiarizarse con el concepto de correlación de variables, normalización de datos numéricos y metodología OSEMN. Se busca predecir la probabilidad de clasificación de tener o no diabetes basado en una variable del dataset entre 1 y 0. Usamos un modelo de DL preentrenado, analizamos métricas de Accuracy y BIAS.
